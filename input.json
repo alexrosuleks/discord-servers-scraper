@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "minecraft"
+  ],
+  "maxServers": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
